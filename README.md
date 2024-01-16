@@ -1,2 +1,4 @@
 # NeugalublicSchool
-This is a School repo 
+This is a School repo
+
+Copyright @Sachin
